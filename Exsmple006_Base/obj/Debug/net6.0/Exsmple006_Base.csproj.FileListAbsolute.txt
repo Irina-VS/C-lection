@@ -1,0 +1,15 @@
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\bin\Debug\net6.0\Exsmple006_Base.exe
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\bin\Debug\net6.0\Exsmple006_Base.deps.json
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\bin\Debug\net6.0\Exsmple006_Base.runtimeconfig.json
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\bin\Debug\net6.0\Exsmple006_Base.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\bin\Debug\net6.0\Exsmple006_Base.pdb
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.csproj.AssemblyReference.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.AssemblyInfoInputs.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.AssemblyInfo.cs
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.csproj.CoreCompileInputs.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\refint\Exsmple006_Base.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.pdb
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\Exsmple006_Base.genruntimeconfig.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Exsmple006_Base\obj\Debug\net6.0\ref\Exsmple006_Base.dll
