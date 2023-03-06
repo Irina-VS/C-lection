@@ -1,0 +1,15 @@
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\bin\Debug\net6.0\Example005_ConditionalElse.exe
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\bin\Debug\net6.0\Example005_ConditionalElse.deps.json
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\bin\Debug\net6.0\Example005_ConditionalElse.runtimeconfig.json
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\bin\Debug\net6.0\Example005_ConditionalElse.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\bin\Debug\net6.0\Example005_ConditionalElse.pdb
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.csproj.AssemblyReference.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.AssemblyInfoInputs.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.AssemblyInfo.cs
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.csproj.CoreCompileInputs.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\refint\Example005_ConditionalElse.dll
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.pdb
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\Example005_ConditionalElse.genruntimeconfig.cache
+C:\Users\756\OneDrive\Рабочий стол\C# Лекции\Example005_ConditionalElse\obj\Debug\net6.0\ref\Example005_ConditionalElse.dll
